@@ -1,0 +1,39 @@
+﻿<Page x:Class="Library.Pages.BooksPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Library.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="BooksPage">
+
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="650*"/>
+        </Grid.RowDefinitions>
+
+        <Border CornerRadius="5" Grid.RowSpan="2" Background="{DynamicResource SecundaryBackgroundColor}"/>
+        <TextBlock HorizontalAlignment="Left" Grid.Row="0" Margin="20,0,0,0" TextWrapping="Wrap" Text="Книги" VerticalAlignment="Center" Height="18"/>
+        <ComboBox x:Name="searchBook" DisplayMemberPath="Name" SelectionChanged="Search_Book_Changed" Margin="0,0,485,0" Height="20" VerticalAlignment="Center" HorizontalAlignment="Right" Width="140"/>
+
+        <DataGrid x:Name="DGrid" Grid.Row="1" Margin="5,0,5,5" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Title}" Header="Название" Width="*"/>
+                <DataGridTextColumn Binding="{Binding Author}" Header="Автор" Width="*"/>
+                <DataGridTextColumn Binding="{Binding Genres.Name}" Header="Жанр" Width="*"/>
+                <DataGridTextColumn Binding="{Binding Year}" Header="Год" Width="*"/>
+                <DataGridTextColumn Binding="{Binding Quantity}" Header="Количество" Width="*"/>
+                <DataGridTextColumn Binding="{Binding Avaliability, Converter={StaticResource IntToStringConvBook}}" Header="Доступность" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Button x:Name="DelBtn" Grid.Row="0" Content="Удалить" Click="Del_Book" Width="75" Margin="0,0,10,0" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+        <Button x:Name="EditBtn" Grid.Row="0" Content="Редактировать" Click="Edit_Book" Width="120" Margin="0,0,95,0" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+        <Button x:Name="AddBtn" Grid.Row="0" Content="Добавить" Click="Add_Book" Width="85" Margin="0,0,225,0" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+        <Button x:Name="SelBtn" Grid.Row="0" Content="Выбрать" Click="Select_Book" Width="85" Margin="0,0,320,0" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+        <Button x:Name="GenBtn" Grid.Row="0" Content="Жанры" Click="Genres_List" Width="60" Margin="0,0,415,0" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+
+    </Grid>
+</Page>

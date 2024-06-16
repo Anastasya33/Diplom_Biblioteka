@@ -1,0 +1,273 @@
+C:\Users\shume\Desktop\UIKitTutorials-main\bin\Debug\EntityFramework.dll
+C:\Users\shume\Desktop\UIKitTutorials-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shume\Desktop\UIKitTutorials-main\bin\Debug\EntityFramework.xml
+C:\Users\shume\Desktop\UIKitTutorials-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shume\Desktop\UIKitTutorials-main\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Library.csproj.ResolveComReference.cache
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Windows\AddNewBookWindow.g.cs
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Windows\AddNewClientWindow.g.cs
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Windows\AddNewGenreWindow.g.cs
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Windows\AddNewUserWindow.g.cs
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Windows\AuthWindow.g.cs
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Windows\GenresWindow.g.cs
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Pages\BooksPage.g.cs
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Pages\ClientsPage.g.cs
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Pages\OrderedBooksPage.g.cs
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Pages\Proverkaemail.g.cs
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Pages\RegPage.g.cs
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Windows\SelectBookWindow.g.cs
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\App.g.cs
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\App.baml
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Pages\AdminPage.baml
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Windows\AddNewBookWindow.baml
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Windows\AddNewClientWindow.baml
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Windows\AddNewGenreWindow.baml
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Windows\AddNewUserWindow.baml
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Windows\AuthWindow.baml
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Windows\GenresWindow.baml
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Windows\MainWindow.baml
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Pages\BooksPage.baml
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Pages\ClientsPage.baml
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Pages\OrderedBooksPage.baml
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Pages\Proverkaemail.baml
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Pages\RegPage.baml
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Styles\MainStyle.baml
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Themes\LightTheme.baml
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Windows\SelectBookWindow.baml
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Library.csproj.CopyComplete
+C:\Users\shume\Desktop\UIKitTutorials-main\bin\Debug\Library.exe.config
+C:\Users\shume\Desktop\UIKitTutorials-main\bin\Debug\Library.exe
+C:\Users\shume\Desktop\UIKitTutorials-main\bin\Debug\Library.pdb
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Library_Content.g.cs
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Library_MarkupCompile.cache
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Library_MarkupCompile.lref
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Library.g.resources
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Library.Properties.Resources.resources
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Library.exe
+C:\Users\shume\Desktop\UIKitTutorials-main\obj\Debug\Library.pdb
+C:\Users\shume\Desktop\Library_Diplom\bin\Debug\Library.exe.config
+C:\Users\shume\Desktop\Library_Diplom\bin\Debug\Library.exe
+C:\Users\shume\Desktop\Library_Diplom\bin\Debug\Library.pdb
+C:\Users\shume\Desktop\Library_Diplom\bin\Debug\EntityFramework.dll
+C:\Users\shume\Desktop\Library_Diplom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shume\Desktop\Library_Diplom\bin\Debug\EntityFramework.xml
+C:\Users\shume\Desktop\Library_Diplom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shume\Desktop\Library_Diplom\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Library.csproj.ResolveComReference.cache
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Windows\AddNewBookWindow.g.cs
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Windows\AddNewClientWindow.g.cs
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Windows\AddNewGenreWindow.g.cs
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Windows\AddNewUserWindow.g.cs
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Windows\AuthWindow.g.cs
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Windows\GenresWindow.g.cs
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Pages\BooksPage.g.cs
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Pages\ClientsPage.g.cs
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Pages\OrderedBooksPage.g.cs
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Pages\Proverkaemail.g.cs
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Pages\RegPage.g.cs
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Windows\SelectBookWindow.g.cs
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\App.g.cs
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Library_Content.g.cs
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Library_MarkupCompile.cache
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Library_MarkupCompile.lref
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\App.baml
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Pages\AdminPage.baml
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Windows\AddNewBookWindow.baml
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Windows\AddNewClientWindow.baml
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Windows\AddNewGenreWindow.baml
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Windows\AddNewUserWindow.baml
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Windows\AuthWindow.baml
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Windows\GenresWindow.baml
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Windows\MainWindow.baml
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Pages\BooksPage.baml
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Pages\ClientsPage.baml
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Pages\OrderedBooksPage.baml
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Pages\Proverkaemail.baml
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Pages\RegPage.baml
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Styles\MainStyle.baml
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Themes\LightTheme.baml
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Windows\SelectBookWindow.baml
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Library.g.resources
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Library.Properties.Resources.resources
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Library.csproj.CopyComplete
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Library.exe
+C:\Users\shume\Desktop\Library_Diplom\obj\Debug\Library.pdb
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\bin\Debug\Library.exe.config
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\bin\Debug\Library.exe
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\bin\Debug\Library.pdb
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\bin\Debug\EntityFramework.dll
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\bin\Debug\EntityFramework.xml
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Library.csproj.ResolveComReference.cache
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewBookWindow.g.cs
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewClientWindow.g.cs
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewGenreWindow.g.cs
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewUserWindow.g.cs
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AuthWindow.g.cs
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Windows\GenresWindow.g.cs
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Pages\BooksPage.g.cs
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Pages\ClientsPage.g.cs
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Pages\OrderedBooksPage.g.cs
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Pages\Proverkaemail.g.cs
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Pages\RegPage.g.cs
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Windows\SelectBookWindow.g.cs
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\App.g.cs
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Library_Content.g.cs
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Library_MarkupCompile.cache
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Library_MarkupCompile.lref
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\App.baml
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Pages\AdminPage.baml
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewBookWindow.baml
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewClientWindow.baml
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewGenreWindow.baml
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewUserWindow.baml
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AuthWindow.baml
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Windows\GenresWindow.baml
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Windows\MainWindow.baml
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Pages\BooksPage.baml
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Pages\ClientsPage.baml
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Pages\OrderedBooksPage.baml
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Pages\Proverkaemail.baml
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Pages\RegPage.baml
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Styles\MainStyle.baml
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Themes\LightTheme.baml
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Windows\SelectBookWindow.baml
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Library.g.resources
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Library.Properties.Resources.resources
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Library.csproj.CopyComplete
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Library.exe
+C:\Users\shume\Desktop\Библиотека диплом\Library_Diplom\obj\Debug\Library.pdb
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\bin\Debug\Library.exe.config
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\bin\Debug\Library.exe
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\bin\Debug\Library.pdb
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\bin\Debug\EntityFramework.dll
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\bin\Debug\EntityFramework.xml
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Library.csproj.ResolveComReference.cache
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewBookWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewClientWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewGenreWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewUserWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AuthWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Windows\GenresWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Pages\BooksPage.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Pages\ClientsPage.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Pages\OrderedBooksPage.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Pages\Proverkaemail.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Pages\RegPage.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Windows\SelectBookWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\App.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Library_Content.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Library_MarkupCompile.cache
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Library_MarkupCompile.lref
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\App.baml
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Pages\AdminPage.baml
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewBookWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewClientWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewGenreWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewUserWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AuthWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Windows\GenresWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Windows\MainWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Pages\BooksPage.baml
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Pages\ClientsPage.baml
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Pages\OrderedBooksPage.baml
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Pages\Proverkaemail.baml
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Pages\RegPage.baml
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Styles\MainStyle.baml
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Themes\LightTheme.baml
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Windows\SelectBookWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Library.g.resources
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Library.Properties.Resources.resources
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Library.csproj.CopyComplete
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Library.exe
+C:\Users\zvere\OneDrive\Рабочий стол\Diplomchik_7\Библиотека диплом\Library_Diplom\obj\Debug\Library.pdb
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\bin\Debug\Library.exe.config
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\bin\Debug\Library.exe
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\bin\Debug\Library.pdb
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\bin\Debug\EntityFramework.dll
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\bin\Debug\EntityFramework.xml
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Library.csproj.ResolveComReference.cache
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewBookWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewClientWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewGenreWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewUserWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AuthWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Windows\GenresWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Pages\BooksPage.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Pages\ClientsPage.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Pages\OrderedBooksPage.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Pages\Proverkaemail.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Pages\RegPage.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Windows\SelectBookWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\App.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Library_Content.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Library_MarkupCompile.cache
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Library_MarkupCompile.lref
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\App.baml
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Pages\AdminPage.baml
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewBookWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewClientWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewGenreWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AddNewUserWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Windows\AuthWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Windows\GenresWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Windows\MainWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Pages\BooksPage.baml
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Pages\ClientsPage.baml
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Pages\OrderedBooksPage.baml
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Pages\Proverkaemail.baml
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Pages\RegPage.baml
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Styles\MainStyle.baml
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Themes\LightTheme.baml
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Windows\SelectBookWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Library.g.resources
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Library.Properties.Resources.resources
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Library.csproj.CopyComplete
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Library.exe
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\Library.pdb

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="51815a36b87841559eb527b69a04d435" Name="Diagram1">
+        <EntityTypeShape EntityType="LibraryDBModel.Book" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryDBModel.Genres" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryDBModel.Ordered_Books" Width="1.5" PointX="5.25" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryDBModel.Peoples" Width="1.5" PointX="3" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryDBModel.Role" Width="1.5" PointX="5.75" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryDBModel.User" Width="1.5" PointX="8" PointY="4.875" IsExpanded="true" />
+        <AssociationConnector Association="LibraryDBModel.FK_Book_Genres" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryDBModel.FK_Ordered_Books_Book" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryDBModel.FK_Ordered_Books_Peoples" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryDBModel.FK_User_Role" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

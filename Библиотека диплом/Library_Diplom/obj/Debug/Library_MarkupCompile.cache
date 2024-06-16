@@ -1,0 +1,20 @@
+﻿Library
+
+
+winexe
+C#
+.cs
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\obj\Debug\
+Library
+none
+false
+DEBUG;TRACE
+C:\Users\zvere\OneDrive\Рабочий стол\ДИПЛОМ БИБЛЛЕТКА\Библиотека диплом\Library_Diplom\App.xaml
+17601992749
+2-1372435529
+28-459139664
+21-1494092539
+Assets\Icons\Icons.xaml;Pages\AdminPage.xaml;Windows\AddNewBookWindow.xaml;Windows\AddNewClientWindow.xaml;Windows\AddNewGenreWindow.xaml;Windows\AddNewUserWindow.xaml;Windows\AuthWindow.xaml;Windows\GenresWindow.xaml;Windows\MainWindow.xaml;Pages\BooksPage.xaml;Pages\ClientsPage.xaml;Pages\OrderedBooksPage.xaml;Pages\Proverkaemail.xaml;Pages\RegPage.xaml;Styles\MainStyle.xaml;Themes\LightTheme.xaml;Windows\SelectBookWindow.xaml;
+
+False
+

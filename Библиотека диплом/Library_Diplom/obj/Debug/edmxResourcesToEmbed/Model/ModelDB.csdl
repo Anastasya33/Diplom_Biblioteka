@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LibraryDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Author" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Genre_ID" Type="Int32" Nullable="false" />
+    <Property Name="Year" Type="Int32" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <Property Name="Avaliability" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Genres" Relationship="Self.FK_Book_Genres" FromRole="Book" ToRole="Genres" />
+    <NavigationProperty Name="Ordered_Books" Relationship="Self.FK_Ordered_Books_Book" FromRole="Book" ToRole="Ordered_Books" />
+  </EntityType>
+  <EntityType Name="Genres">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Book" Relationship="Self.FK_Book_Genres" FromRole="Genres" ToRole="Book" />
+  </EntityType>
+  <EntityType Name="Ordered_Books">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="People_ID" Type="Int32" Nullable="false" />
+    <Property Name="Book_ID" Type="Int32" Nullable="false" />
+    <Property Name="ReturnBook" Type="DateTime" Precision="0" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Book" Relationship="Self.FK_Ordered_Books_Book" FromRole="Ordered_Books" ToRole="Book" />
+    <NavigationProperty Name="Peoples" Relationship="Self.FK_Ordered_Books_Peoples" FromRole="Ordered_Books" ToRole="Peoples" />
+  </EntityType>
+  <EntityType Name="Peoples">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FullName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Ordered_Books" Relationship="Self.FK_Ordered_Books_Peoples" FromRole="Peoples" ToRole="Ordered_Books" />
+  </EntityType>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="User" Relationship="Self.FK_User_Role" FromRole="Role" ToRole="User" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FullName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Login" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Role_id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Role" Relationship="Self.FK_User_Role" FromRole="User" ToRole="Role" />
+  </EntityType>
+  <Association Name="FK_Book_Genres">
+    <End Role="Genres" Type="Self.Genres" Multiplicity="1" />
+    <End Role="Book" Type="Self.Book" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Genres">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Book">
+        <PropertyRef Name="Genre_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Ordered_Books_Book">
+    <End Role="Book" Type="Self.Book" Multiplicity="1" />
+    <End Role="Ordered_Books" Type="Self.Ordered_Books" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Book">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Ordered_Books">
+        <PropertyRef Name="Book_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Ordered_Books_Peoples">
+    <End Role="Peoples" Type="Self.Peoples" Multiplicity="1" />
+    <End Role="Ordered_Books" Type="Self.Ordered_Books" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Peoples">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Ordered_Books">
+        <PropertyRef Name="People_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_User_Role">
+    <End Role="Role" Type="Self.Role" Multiplicity="1" />
+    <End Role="User" Type="Self.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Role">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="Role_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="LibraryDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Book" EntityType="Self.Book" />
+    <EntitySet Name="Genres" EntityType="Self.Genres" />
+    <EntitySet Name="Ordered_Books" EntityType="Self.Ordered_Books" />
+    <EntitySet Name="Peoples" EntityType="Self.Peoples" />
+    <EntitySet Name="Role" EntityType="Self.Role" />
+    <EntitySet Name="User" EntityType="Self.User" />
+    <AssociationSet Name="FK_Book_Genres" Association="Self.FK_Book_Genres">
+      <End Role="Genres" EntitySet="Genres" />
+      <End Role="Book" EntitySet="Book" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Ordered_Books_Book" Association="Self.FK_Ordered_Books_Book">
+      <End Role="Book" EntitySet="Book" />
+      <End Role="Ordered_Books" EntitySet="Ordered_Books" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Ordered_Books_Peoples" Association="Self.FK_Ordered_Books_Peoples">
+      <End Role="Peoples" EntitySet="Peoples" />
+      <End Role="Ordered_Books" EntitySet="Ordered_Books" />
+    </AssociationSet>
+    <AssociationSet Name="FK_User_Role" Association="Self.FK_User_Role">
+      <End Role="Role" EntitySet="Role" />
+      <End Role="User" EntitySet="User" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

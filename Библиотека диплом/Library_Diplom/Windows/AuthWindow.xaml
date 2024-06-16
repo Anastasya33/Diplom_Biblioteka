@@ -1,0 +1,94 @@
+﻿<Window x:Class="Library.Windows.AuthWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Library.Windows"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen" 
+    WindowStyle="None"
+    AllowsTransparency="True" 
+    Background="Transparent" 
+    Height="500" 
+    Width="800">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+
+
+        <Image Source="/Resources/close.png" Grid.Column="1" Panel.ZIndex="1" MouseUp="Image_MouseUp" Style="{StaticResource imgClose}" Margin="0,13,3,0" Height="30" Width="30"/>
+
+        <Border CornerRadius="10 0 0 10">
+            <Border.Background>
+                <ImageBrush ImageSource="/Resources/fon.png"/>
+            </Border.Background>
+
+
+            <Grid>
+                <Canvas>
+                    <Polygon Points="0,20 230,140 0,270" Fill="#FF2E2442" Opacity="0.4" />
+                    <Polygon Points="100,400 200,370 180,470" Fill="#FF2E2442" Opacity="0.5" />
+                    <Ellipse Width="40" Height="40" Fill="#FF2E2442" Opacity="0.5" Canvas.Left="329" Canvas.Top="365" />
+                    <Ellipse Margin="50 400 0 0" Width="20" Height="20" Fill="#FF2E2442" Opacity="0.5" />
+                    <Button Content="Регистрация" Style="{StaticResource button}" HorizontalAlignment="Center" Canvas.Left="122" Canvas.Top="313" VerticalAlignment="Top" FontFamily="Candara Light" Click="Button_Click_3" />
+                    <TextBlock Text="Для повышения эффективности работы и улучшения обслуживания, просим персонал библиотеки зарегистрироваться в нашей информационной системе. " Opacity="0.8" Style="{StaticResource NormalText}" Height="136" Width="340" Canvas.Left="40" Canvas.Top="182" HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="Candara Light" />
+                    <TextBlock Text="BIBL" Style="{StaticResource TitleText}" HorizontalAlignment="Center" Canvas.Left="13" Canvas.Top="109" VerticalAlignment="Top" FontFamily="Candara Light" FontSize="45" Width="387" />
+
+                </Canvas>
+                <StackPanel VerticalAlignment="Center"/>
+            </Grid>
+        </Border>
+
+        <Border Background="#FFFFFF" Grid.Column="1" CornerRadius="0 10 10 0" MouseDown="Border_MouseDown">
+            <StackPanel VerticalAlignment="Center">
+                <TextBlock Text="Авторизация" Foreground="#FF615084" Style="{StaticResource TitleText}" FontFamily="Candara Light" FontWeight="Bold" />
+                <StackPanel Orientation="Horizontal" Margin="0 20" HorizontalAlignment="Center"/>
+
+
+
+                <TextBlock Text="введите следующую информацию:" Margin="0 10 0 15" Foreground="#878787" Style="{StaticResource NormalText}" FontFamily="Candara Light" />
+
+                <Border BorderBrush="#ACB0AF" BorderThickness="1" Margin="70 7" CornerRadius="5">
+                    <Grid Margin="7 9">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+
+                        <Image Source="/Resources/Email.png" Height="20" />
+                        <TextBlock x:Name="textEmail" MouseDown="textEmail_MouseDown" Text="Email" Style="{StaticResource textHint}" />
+                        <TextBox Name="txtEmail"   TextChanged="txtEmail_TextChanged" Style="{StaticResource textBox}" />
+                    </Grid>
+                </Border>
+
+                <Border BorderBrush="#ACB0AF" BorderThickness="1" Margin="70 7" CornerRadius="5">
+                    <Grid Margin="7 9">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+
+                        <Image Source="/Resources/Lock.png" Height="20" />
+                        <TextBlock x:Name="textPassword" MouseDown="textPassword_MouseDown" Text="Password" Style="{StaticResource textHint}" />
+                        <TextBox x:Name="ttBox" Text="" Style="{StaticResource textBox}" />
+                        <PasswordBox x:Name="passwordBox" PasswordChanged="PasswordBox_PasswordChanged" Style="{StaticResource textBox}" />
+                        <CheckBox x:Name="PasswordChecker" Click="PasswordChecker_Click"  Content="Показать пароль" Grid.ColumnSpan="2" Margin="-3,31,107,-31" Foreground="#FFA1A0A0" BorderBrush="#FFAEA8A8" ></CheckBox>
+                    </Grid>
+
+                </Border>
+
+
+                <Button Content="Войти" Click="Vhod_Click" Style="{StaticResource mainButton}" Foreground="#FFFDFEFE" Background="#FF615084" />
+            </StackPanel>
+
+
+
+        </Border>
+
+        <Frame x:Name="MyFrame" NavigationUIVisibility="Hidden" Grid.ColumnSpan="2" Margin="0,0,7,10"/>
+    </Grid>
+</Window>
